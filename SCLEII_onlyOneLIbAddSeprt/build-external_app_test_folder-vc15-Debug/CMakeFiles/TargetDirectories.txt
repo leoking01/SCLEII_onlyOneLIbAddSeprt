@@ -1,3 +1,0 @@
-E:/AAAAA_cmk_lib_export/SCLEII_onlyOneLIbAddSeprt/build-external_app_test_folder-vc15-Debug/CMakeFiles/mymathApp.dir
-E:/AAAAA_cmk_lib_export/SCLEII_onlyOneLIbAddSeprt/build-external_app_test_folder-vc15-Debug/CMakeFiles/edit_cache.dir
-E:/AAAAA_cmk_lib_export/SCLEII_onlyOneLIbAddSeprt/build-external_app_test_folder-vc15-Debug/CMakeFiles/rebuild_cache.dir
